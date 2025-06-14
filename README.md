@@ -24,7 +24,7 @@ Each section includes:
 
 ## 💡 Philosophy
 
-Good TPRM isn't about saying "no" to everything—it's about enabling business objectives while managing risk intelligently. This repository reflects that balance.
+Good TPRM isn't about saying "no" to everything; it's about enabling business objectives while managing risk intelligently. This repository reflects that balance.
 
 ---
 *Built from experience assessing hundreds of vendors across various healthcare environments.*
@@ -35,7 +35,7 @@ Good TPRM isn't about saying "no" to everything—it's about enabling business o
 
 ## The Assessment Lifecycle
 
-Think of vendor risk assessments like a funnel—organizations need to catch everything that matters while filtering out noise efficiently.
+Think of vendor risk assessments like a funnel; organizations need to catch everything that matters while filtering out noise efficiently.
 
 📥 Project Intake → 🔍 Triage → 📋 Assessment → 📊 Analysis → ✅ Decision
 
@@ -383,7 +383,7 @@ The best programs I've seen constantly evolve:
 
 ## Control Frameworks: The Foundation
 
-Throughout my assessments at major healthcare organizations, I've learned that strict adherence to minimum security standards protects both the organization and its patients. Large hospital systems have the leverage to enforce these standards—and vendors adapt.
+Throughout my assessments at major healthcare organizations, I've learned that strict adherence to minimum security standards protects both the organization and its patients. Large hospital systems have the leverage to enforce these standards, and vendors adapt.
 
 ### 1. Platform-Based Security Requirements
 
@@ -446,7 +446,7 @@ When vendors push back on using our PRA system, the conversation goes:
 - Vendor: "But our tool is easier for us"
 - Us: "We're providing you enterprise-grade security tools at no cost. This protects both of us."
 
-**The Security Maturity Message:** Organizations that have built robust security infrastructure earn the right to demand vendors meet those standards. We're not asking vendors to figure it out alone—we're providing the tools.
+**The Security Maturity Message:** Organizations that have built robust security infrastructure earn the right to demand vendors meet those standards. We're not asking vendors to figure it out alone; we're providing the tools.
 
 **💡 What I've Learned:** This is where organizational security investment pays dividends. Strong internal controls create leverage for strong vendor controls.
 
@@ -512,7 +512,7 @@ When dealing with major healthcare systems that have invested heavily in securit
 - Standards come with solutions, not just requirements
 - Future vendor relationships start from a higher baseline
 
-**The Multiplier Effect:** Organizations with strong security programs don't just protect themselves—they elevate the entire vendor ecosystem.
+**The Multiplier Effect:** Organizations with strong security programs don't just protect themselves; they elevate the entire vendor ecosystem.
 
 **Personal Satisfaction:** Knowing that every vendor who meets these standards improves their security for all their customers creates real-world impact.
 
@@ -558,7 +558,7 @@ Some gaps simply can't be compensated:
 
 3. **"Self-hosted vs. vendor-hosted determines scrutiny level."** Internal controls reduce risk for on-premise systems.
 
-4. **"Remote access reveals security maturity—theirs and ours."** How both parties handle privileged access shows their true security posture.
+4. **"Remote access reveals security maturity, theirs and ours."** How both parties handle privileged access shows their true security posture.
 
 5. **"Some risks can't be compensated away."** Windows 7 and older? No amount of controls makes that acceptable.
 
@@ -572,7 +572,7 @@ Some gaps simply can't be compensated:
 
 # Risk Decisions 📊
 
-> Risk decisions are about evaluating real residual risk—what's actually exploitable after compensating controls are applied.
+> Risk decisions are about evaluating real residual risk, what's actually exploitable after compensating controls are applied.
 
 ## The Standards-Based Decision Framework
 
@@ -607,7 +607,7 @@ Through hundreds of assessments, I've learned that effective risk decisions star
 - Mandatory use of their PRA solution
 - Specific encryption requirements
 
-But I've worked with other organizations where the bar was different—some higher, some lower, all based on their unique needs.
+But I've worked with other organizations where the bar was different, some higher, some lower, all based on their unique needs.
 
 ### 2. From Identified Risk to Residual Risk
 
@@ -790,7 +790,7 @@ Review Date: [Ongoing assessment schedule]
 - Communicating residual risk clearly
 
 **Example Inner Monologue:**
-"Yes, this violates the organization's password standard. But it's only accessible from the OR, requires badge access to the room, has session recording, and alerts on any anomaly. The real risk isn't the weak password—it's whether someone could actually exploit it. In this deployment? Aside from insider threat, they can't."
+"Yes, this violates the organization's password standard. But it's only accessible from the OR, requires badge access to the room, has session recording, and alerts on any anomaly. The real risk isn't the weak password; it's whether someone could actually exploit it. In this deployment? Aside from insider threat, they can't."
 
 ### 8. Adapting to Different Organizations
 
