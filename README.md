@@ -39,8 +39,6 @@ Think of vendor risk assessments like a funnel—organizations need to catch eve
 
 📥 Project Intake → 🔍 Triage → 📋 Assessment → 📊 Analysis → ✅ Decision
 
-<br>
-
 ### 1. Project Intake: The First Line of Defense
 
 **The Reality:** Not every vendor relationship needs the same scrutiny. I've seen organizations waste countless hours assessing low-risk relationships while missing critical ones.
@@ -51,8 +49,6 @@ Think of vendor risk assessments like a funnel—organizations need to catch eve
 - **Smart routing** to appropriate teams based on project characteristics
 
 **🎯 Key Insight:** The best intake process is invisible to the business user but catches everything that matters.
-
-<br>
 
 ### 2. Triage: Work Smarter, Not Harder
 
@@ -82,8 +78,6 @@ Offshore data processing,
 Payment processing.
 
 **💡 Pro Tip:** Organizations that create clear decision trees empower their stakeholders to self-identify risk levels, saving everyone time.
-
-<br>
 
 ### 3. Asset Classification: Know What You're Protecting
 
@@ -158,8 +152,6 @@ In my experience, it's best practice for organizations embed remote access requi
 
 This streamlined approach eliminates lengthy negotiations while maintaining security standards.
 
-<br>
-
 ### 4. Stakeholder Mapping: Your Success Network
 
 🏢 Business Owner
@@ -192,8 +184,6 @@ This streamlined approach eliminates lengthy negotiations while maintaining secu
 - **Security Gaps:** Implementation of compensating controls (e.g., application whitelisting)
 - **Patching:** Alignment with regulatory guidelines (e.g., FDA recommendations)
 - **Result:** Conditional approval with agreed upon security controls
-
-<br>
 
 **Industry Impact:** When organizations maintain high standards, vendors often improve their baseline security for all customers. I am proud to know that I have personally contributed to this ideal, creating a net positive in the world, one assessment at a time.
 
