@@ -8,12 +8,12 @@ This repository serves as a knowledge base for third-party risk management pract
 
 ## 📚 What's Inside
 
-- **[Risk Assessment Framework](./01-risk-assessment-framework/)** - How organizations structure and execute vendor assessments
-- **[Assessment Tools & Techniques](./02-assessment-methodology/)** - Common questionnaire approaches and automation strategies  
-- **[Security Controls](./03-security-controls/)** - Remote access, standards, and control frameworks
-- **[Risk Decisions](./04-risk-decisions/)** - Making defensible accept/reject decisions
-- **[Stakeholder Management](./05-stakeholder-management/)** - Navigating the human side of risk
-- **[Real-World Scenarios](./06-case-studies/)** - Lessons learned from the field
+- **[Risk Assessment Framework](#risk-assessment-framework-)** - How organizations structure and execute vendor assessments
+- **[Assessment Tools & Techniques](#assessment-methodology--tools-)** - Common questionnaire approaches and automation strategies  
+- **[Security Controls](#security-controls-)** - Remote access, standards, and control frameworks
+- **[Risk Decisions](#risk-decisions)** - Making defensible accept/reject decisions
+- **[Stakeholder Management](#stakeholder-management)** - Navigating the human side of risk
+- **[Real-World Scenarios](#real-world-scenarios)** - Lessons learned from the field
 
 ## 🚀 Quick Start
 
@@ -197,7 +197,7 @@ This streamlined approach eliminates lengthy negotiations while maintaining secu
 
 ---
 
-**Next:** [Assessment Methodology & Tools →](../02-assessment-methodology/)
+**Next:** [Assessment Methodology & Tools →](#assessment-methodology--tools-)
 
 
 <br>
@@ -370,7 +370,7 @@ The best programs I've seen constantly evolve:
 
 ---
 
-**Next:** [Security Controls →](../03-security-controls/)
+**Next:** [Security Controls →](#security-controls-)
 
 
 <br>
@@ -566,7 +566,7 @@ Some gaps simply can't be compensated:
 
 ---
 
-**Next:** [Risk Decisions →](../04-risk-decisions/)
+**Next:** [Risk Decisions →](#risk-decisions)
 
 
 
