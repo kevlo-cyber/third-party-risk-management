@@ -566,11 +566,11 @@ Some gaps simply can't be compensated:
 
 ---
 
-**Next:** [Risk Decisions →](#risk-decisions)
+**Next:** [Risk Decisions →](#risk-decisions-)
 
 
 
-# Risk Decisions 
+# Risk Decisions 📊
 
 > Risk decisions are about evaluating real residual risk, what's actually exploitable after compensating controls are applied.
 
