@@ -9,7 +9,7 @@ This repository serves as a knowledge base for third-party risk management pract
 ## 📚 What's Inside
 
 - **[Risk Assessment Framework](#risk-assessment-framework-)** - How organizations structure and execute vendor assessments
-- **[Assessment Tools & Techniques](#assessment-methodology--tools-)** - Common questionnaire approaches and automation strategies  
+- **[Assessment Tools & Techniques](#assessment-methodology--tools-️)** - Common questionnaire approaches and automation strategies  
 - **[Security Controls](#security-controls-)** - Remote access, standards, and control frameworks
 - **[Risk Decisions](#risk-decisions)** - Making defensible accept/reject decisions
 - **[Stakeholder Management](#stakeholder-management)** - Navigating the human side of risk
