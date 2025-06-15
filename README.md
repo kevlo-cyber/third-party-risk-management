@@ -877,13 +877,13 @@ The spreadsheets and questionnaires are just tools. The real work is enabling he
 Early in my career, I approached vendors as potential adversaries. Experience taught me that the best outcomes come from viewing them as partners in a shared mission. When you help vendors succeed securely, everyone wins.
 
 #### 🎨 Creativity Within Constraints
-The most satisfying moments weren't when I found perfect compliance, but when I discovered creative solutions that seemed impossible at first glance. That Windows 7 medical device that "had" to be rejected? With the right controls, it safely served patients for years.
+The most satisfying moments weren't when I found perfect compliance, but when I discovered creative solutions that seemed impossible at first glance. 
 
 #### 📚 Continuous Learning
-Technology evolves faster than any standard can keep pace. AI wasn't even on our radar five years ago; now it's in every other assessment. Staying curious and adaptable isn't optional—it's essential.
+Technology evolves faster than any standard can keep pace. AI wasn't even on our radar five years ago; now it's in every other assessment. Staying curious and adaptable isn't optional; it's essential.
 
 #### 💡 Context Is King
-The same vulnerability can be critical or trivial depending on deployment. Understanding the full picture—technical, operational, and political—transforms good decisions into great ones.
+The same vulnerability can be critical or trivial depending on the deployment. Understanding the full picture—technical, operational, and political, transforms good decisions into great ones.
 
 ### The Evolution of a Risk Analyst
 
@@ -922,7 +922,7 @@ Every assessment is unique. Even the hundredth medical device brings new challen
 Behind every project is someone trying to improve healthcare. Whether it's a clinician wanting better tools or a vendor building innovative solutions, helping them succeed securely is deeply satisfying.
 
 **The Progress**
-Watching vendors transform from security disasters to industry leaders—and knowing I played a small part in that journey—never gets old. Every improved vendor makes the entire ecosystem stronger.
+Watching vendors transform from security disasters to industry leaders, and knowing I played a small part in that journey, never gets old. Every improved vendor makes the entire ecosystem stronger.
 
 ### The Future of TPRM
 
@@ -953,9 +953,9 @@ The moment you think you've seen it all, technology will surprise you. Approach 
 
 ### A Personal Reflection
 
-Creating this repository forced me to distill years of experience into actionable insights. In doing so, I realized how much I've grown—not just technically, but in understanding the human elements that make security programs successful.
+Creating this repository forced me to distill my experience and time as a risk analyst into actionable insights. In doing so, I realized how much I've grown, not just technically, but in understanding the human elements that make security programs successful.
 
-I'm proud of the vendors I've helped improve, the risks I've helped organizations navigate, and the small part I've played in securing healthcare technology. But I'm most proud of evolving from someone who saw only risks to someone who sees opportunities—opportunities to enable innovation while protecting what matters.
+I'm proud of the vendors I've helped improve, the risks I've helped organizations navigate, and the small part I've played in securing healthcare technology. But I'm most proud of evolving from someone who saw only risks to someone who sees opportunities, opportunities to enable innovation while protecting what matters.
 
 ### The Work Continues
 
@@ -963,7 +963,7 @@ TPRM isn't a destination; it's an ongoing journey. Each assessment teaches somet
 
 To those who've read this far: thank you for joining me on this reflection. Whether you're a fellow analyst, a vendor working to improve, or a leader trying to balance innovation with security, we're all part of the same ecosystem.
 
-Together, we're building a world where technology can transform healthcare without compromising the trust patients place in us. It's challenging work, often thankless, sometimes frustrating—but always important.
+Together, we're building a world where technology can transform healthcare without compromising the trust patients place in us. It's challenging work, often thankless, sometimes frustrating, but always important.
 
 And that's why I keep coming back, assessment after assessment, vendor after vendor, risk decision after risk decision.
 
