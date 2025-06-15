@@ -166,8 +166,4 @@ This streamlined approach eliminates lengthy negotiations while maintaining secu
 
 ---
 
-**Next:** [Assessment Methodology & Tools →](#assessment-methodology--tools-)
 
-
-<br>
-<br>
