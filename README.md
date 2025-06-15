@@ -883,7 +883,7 @@ The most satisfying moments weren't when I found perfect compliance, but when I 
 Technology evolves faster than any standard can keep pace. AI wasn't even on our radar five years ago; now it's in every other assessment. Staying curious and adaptable isn't optional; it's essential.
 
 #### 💡 Context Is King
-The same vulnerability can be critical or trivial depending on the deployment. Understanding the full picture—technical, operational, and political, transforms good decisions into great ones.
+The same vulnerability can be critical or trivial depending on the deployment. Understanding the full picture, technical, operational, and political, transforms good decisions into great ones.
 
 ### The Evolution of a Risk Analyst
 
