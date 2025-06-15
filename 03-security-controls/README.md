@@ -187,4 +187,3 @@ Some gaps simply can't be compensated:
 
 ---
 
-**Next:** [Risk Decisions →](#risk-decisions-)
