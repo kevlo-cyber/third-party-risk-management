@@ -165,8 +165,3 @@ The best programs I've seen constantly evolve:
 
 ---
 
-**Next:** [Security Controls →](#security-controls-)
-
-
-<br>
-<br>
